@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Gamerbros662", // required by Discord API, not shown in the client
-        state: "Watching Gamerbros662 On Youtube",     // this is what people actually see
-        type: 3,               // Custom
+        state: "Roblox",     // this is what people actually see
+        type: "0",               // Custom
       },
     ],
   },
